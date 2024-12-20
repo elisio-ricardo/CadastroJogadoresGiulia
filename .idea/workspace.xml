@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdc27a5d-e691-4944-9a78-d6ea7b0e0ef3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/exception/GrupocodinomeIndisponivelException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/model/GrupoCodinome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/model/Jogador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/CodinomeRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/JogadorRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/LigaDaJusticaRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/VingadoresRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeRepositoryFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeRepositoryFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/JogadorService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CadastroJogadorController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/Codinome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CodinomeDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CodinomesDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/LigaDaJusticaDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/ListagemJogadoresController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/VingadoresDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/cadastro_jogador.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/listagem_jogadores.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresIT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/schema.sql" afterDir="false" />
-    </list>
+    <list default="true" id="cdc27a5d-e691-4944-9a78-d6ea7b0e0ef3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,11 +32,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1734719759" />
+                    <option name="lastUsedInstant" value="1734720592" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1734719758" />
+                    <option name="lastUsedInstant" value="1734720025" />
                   </RecentBranch>
                 </list>
               </option>
@@ -103,7 +67,7 @@
     "Application.DesafioCadastroJogadoresApplication.executor": "Run",
     "JUnit.DesafioCadastroJogadoresIT.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/elisiodasilva/Downloads/CodeEstudos/desafio-Cadastro-Jogadores/src/test/resources",
     "project.structure.last.edited": "Project",
