@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cadastro de Jogador</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <h1 class="mt-5">Cadastro do Jogador</h1>
+    <form th:action="@{/cadastro-jogador}" th:method="post" th:object="${jogador}">
+        <div>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" th:field="*{nome}" >
+            <div th:if="${#fields.hasErrors('nome')}" th:errors="*{nome}">Nome é obrigatorio</div>
+        </div>
+        <div>
+            <label for="email">E-mail:</label>
+            <input type="text" id="email" th:field="*{email}" >
+            <div th:if="${#fields.hasErrors('email')}" th:errors="*{email}">Email é obrigatorio</div>
+        </div>
+        <div>
+            <label for="telefone">Telefone:</label>
+            <input type="text" id="telefone" th:field="*{telefone}">
+        </div>
+
+        <div>
+            <label>Escolha um Grupo de Codinome</label>
+            <div th:each="grupo: ${gruposCodinomes}">
+                <input type="radio" th:field="*{grupoCodinome}" th:value="${grupo.name()}" th:id="${grupo.name()}"
+                       >
+                <label th:for="${grupo.name()}" th:text="${grupo.getNome()}"></label>
+            </div>
+            <div th:if="${#fields.hasErrors('grupoCodinome')}" th:errors="*{grupoCodinome}">Grupo Codinome é
+                obrigatorio
+            </div>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Cadastrar</button>
+            <a th:href="@{/listagem-jogadores}" class="btn btn-primary">Listar Jogadores</a>
+        </div>
+        <div th:if="${errorMessage}">
+            <p th:text="${errorMessage}" style="color: red;"></p>
+        </div>
+    </form>
+</div>
+</body>
+</html>
