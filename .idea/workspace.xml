@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdc27a5d-e691-4944-9a78-d6ea7b0e0ef3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/exception/GrupocodinomeIndisponivelException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/model/GrupoCodinome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/model/Jogador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/CodinomeRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/JogadorRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/LigaDaJusticaRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/repository/VingadoresRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeRepositoryFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeRepositoryFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/CodinomeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/service/JogadorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CadastroJogadorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/Codinome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CodinomeDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/CodinomesDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/LigaDaJusticaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/ListagemJogadoresController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/web/VingadoresDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/cadastro_jogador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/listagem_jogadores.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/desafioCadastroJogadores/desafio_Cadastro_Jogadores/DesafioCadastroJogadoresIT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1734719759" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1734719758" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qML9KgRxVWYZqW9nbguQuCdhkg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DesafioCadastroJogadoresApplication.executor": "Run",
+    "JUnit.DesafioCadastroJogadoresIT.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/elisiodasilva/Downloads/CodeEstudos/desafio-Cadastro-Jogadores/src/test/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DesafioCadastroJogadoresIT">
+    <configuration name="DesafioCadastroJogadoresApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.desafioCadastroJogadores.desafio_Cadastro_Jogadores.DesafioCadastroJogadoresApplication" />
+      <module name="desafio-Cadastro-Jogadores" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desafioCadastroJogadores.desafio_Cadastro_Jogadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioCadastroJogadoresIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="desafio-Cadastro-Jogadores" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.desafioCadastroJogadores.desafio_Cadastro_Jogadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.desafioCadastroJogadores.desafio_Cadastro_Jogadores" />
+      <option name="MAIN_CLASS_NAME" value="com.desafioCadastroJogadores.desafio_Cadastro_Jogadores.DesafioCadastroJogadoresIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DesafioCadastroJogadoresIT" />
+        <item itemvalue="Application.DesafioCadastroJogadoresApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc27a5d-e691-4944-9a78-d6ea7b0e0ef3" name="Changes" comment="" />
+      <created>1734467345746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734467345746</updated>
+    </task>
+    <servers />
+  </component>
+</project>
